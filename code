@@ -56,7 +56,7 @@
 </style>
 <div class="row" data-component="grid" data-builder="edit del clone dnd col" id="accordion-7gdCzDS8xJ"><div class="col-md-12" data-builder="edit del dnd"><div class="js_kartra_component_holder"><div class="kartra_element_bg kartra_element_bg--padding-small kartra_element_bg--padding-bottom-tiny kartra_element_bg--margin-bottom-extra-small js_kartra_component_holder" data-component="bundle" data-builder="dnd del clone edit edit edit" data-source-element="true" style="margin: 0px; padding: 0px;" data-selector="div[data-component=bundle]">
        <div class="kartra_video" style="margin-top: 0px; margin-bottom: 20px; padding-bottom: 56.25%;" id="video-container">
- <iframe frameborder="0" name="optin_video" scrolling="no" allowfullscreen="true" src="https://player.vimeo.com/video/874396297?autoplay=1&amp;muted=1" id="video" style="width: 100%; height: 100%;"></iframe>
+ <iframe frameborder="0" name="optin_video" scrolling="no" allowfullscreen="true" src="https://player.vimeo.com/video/8746297?autoplay=1&amp;muted=1" id="video" style="width: 100%; height: 100%;"></iframe>
 <div id="video-overlay">
     <div id="text-above-button">
         Click to Play!
